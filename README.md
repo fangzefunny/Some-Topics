@@ -1,8 +1,8 @@
 ## Done
 ~means need to be revised later
 
-* ~Representation similarity analysis (RSA) 
-* Upper Confidence Bound (UCB)
+1. ~ Representation similarity analysis (RSA) 
+2. Upper Confidence Bound (UCB)
 
 ## In progress 
 
