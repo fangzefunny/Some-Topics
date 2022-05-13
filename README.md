@@ -2,10 +2,10 @@
 ~means need to be revised later
 
 * ~Representation similarity analysis (RSA) 
+* Upper Confidence Bound (UCB)
 
 ## In progress 
 
-* Upper Confidence Bound (UCB)
 
 ## Future candidates
 
