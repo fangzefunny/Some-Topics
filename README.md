@@ -1,11 +1,13 @@
 ## Done
+~means need to be revised later
 
+* ~Representation similarity analysis (RSA) 
 
 ## In progress 
 
-* Representation similarity analysis (RSA)
+* Upper Confidence Bound (UCB)
 
 ## Future candidates
 
 * Bootstrapping
-* Upper Confident Bound (UCB)
+* multidimensional scaling (MDS)
