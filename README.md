@@ -1,12 +1,12 @@
 ## Done
 ~means need to be revised later
 
-1. ~ Representation similarity analysis (RSA) 
+1. ~ Representation Similarity Analysis (RSA) 
 2. Upper Confidence Bound (UCB)
+3. Einstein Summation Convention (einsum)
 
 ## In progress 
 
-* einsum
 
 ## Future candidates
 
