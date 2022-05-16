@@ -6,6 +6,7 @@
 
 ## In progress 
 
+* einsum
 
 ## Future candidates
 
