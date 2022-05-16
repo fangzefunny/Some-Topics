@@ -11,3 +11,4 @@
 
 * Bootstrapping
 * multidimensional scaling (MDS)
+* self-attention 
