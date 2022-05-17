@@ -7,9 +7,9 @@
 
 ## In progress 
 
+* self-attention 
 
 ## Future candidates
 
 * Bootstrapping
 * multidimensional scaling (MDS)
-* self-attention 
