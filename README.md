@@ -5,6 +5,8 @@
 2. Upper Confidence Bound (UCB)
 3. Einstein Summation Convention (einsum)
 4. Approximated KL divergence (ApproxKL)
+5. 
+6. Rotation Matrix (rotMatrix)
 
 ## In progress 
 
