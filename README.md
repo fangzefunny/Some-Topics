@@ -7,6 +7,7 @@
 4. Approximated KL divergence (ApproxKL)
 5. 
 6. Rotation Matrix (rotMatrix)
+7. Box Muller transform (BMtransform)
 
 ## In progress 
 
