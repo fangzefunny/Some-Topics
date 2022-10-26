@@ -9,6 +9,7 @@
 6. Rotation Matrix (rotMatrix)
 7. Box Muller transform (BMtransform)
 8. Correlations (Corr)
+9. Q learning (QLearning)
 
 ## In progress 
 
