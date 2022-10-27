@@ -10,6 +10,7 @@
 7. Box Muller transform (BMtransform)
 8. Correlations (Corr)
 9. Q learning (QLearning)
+10. Drift diffusion model (DDM)
 
 ## In progress 
 
